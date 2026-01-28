@@ -28,7 +28,7 @@
   <text x="600" y="153" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">PREMIUM DOMAIN</text>
 
   <!-- Domain name -->
-  <text x="600" y="280" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="url(#textGrad)" text-anchor="middle">DolBodol.com</text>
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="url(#textGrad)" text-anchor="middle">dolbodol.com</text>
 
   <!-- Meaning -->
   <text x="600" y="340" font-family="Arial, sans-serif" font-size="24" fill="#f472b6" text-anchor="middle">"Change Team" in Bengali</text>
