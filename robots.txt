@@ -1,0 +1,6 @@
+# robots.txt for dolbodol.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://dolbodol.com/sitemap.xml
